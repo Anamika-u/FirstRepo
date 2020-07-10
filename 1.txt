@@ -1,5 +1,2 @@
-Hello world
-^X
-^o
-^X
+<h1>Hello world</h1>
 
